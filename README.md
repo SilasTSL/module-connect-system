@@ -1,30 +1,24 @@
 ## About the Project
 
-This Project is a template for a Website using React js.
+Module Connect System is a platform for students to find peers to take common modules with.
 
-<ins>Index Page</ins><br>
-Home page of Website
+<ins>Registration Page</ins><br>
 
-<ins>TBC...</ins><br>
+<ins>First Use Page</ins><br>
 
-
-## How to use
-
-To use this template, it requires the following information from the business owner:
-
-1. TBC
+<ins>Home Page</ins><br>
 
 ## Built with
 
 - Front-end:
     - React.js
 - Back-end:
-    - Google sheets
+    - PostgreSQL
     
 ## Contact
 Author: Silas Tay<br>
 Email: silastaysl@gmail.com<br>
 Telegram: @SilasTSL<br>
+Github: SilasTSL
 
-If you are looking to use and host this template for your own business, feel free to contact me!
-
+Project submission for What The Hack 22.
