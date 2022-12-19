@@ -5,7 +5,9 @@ import React from 'react'
 export const Footer = () => {
     return (
         <div className="footerContainer">
-            <h1>THIS IS FOOTER</h1>
+            <div className="footerBottomContainer">
+                <h2 className="footerText">Submission by Average Sized Computing</h2>
+            </div>
         </div>
     )
 }
