@@ -1,0 +1,19 @@
+.HomeSemCardContainer {
+    width: 30%;
+    height: 25%;
+    padding: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.addButton {
+    border-radius: 5;
+    background: gray;
+}
+
+.modCard {
+    padding: 10;
+    list-style: none;
+    display: block;
+}

@@ -1,0 +1,6 @@
+.HomeContainer {
+    border-radius: 5;
+    background-color: rgb(245, 245, 245);
+    padding: 100;
+    display: flex;
+}
